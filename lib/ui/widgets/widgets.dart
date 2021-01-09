@@ -1,0 +1,23 @@
+import 'package:dotted_line/dotted_line.dart';
+import 'package:flutix_fachry/bloc/blocs.dart';
+import 'package:flutix_fachry/models/models.dart';
+import 'package:flutix_fachry/shared/shared.dart';
+import 'package:flutix_fachry/ui/pages/pages.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:get/get.dart' as getNavigation;
+import 'package:intl/intl.dart';
+import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
+import 'package:flutix_fachry/extensions/extensions.dart';
+
+part 'selectable_box.dart';
+part 'movie_card.dart';
+part 'rating_stars.dart';
+part 'browse_button.dart';
+part 'coming_soon_card.dart';
+part 'promo_card.dart';
+part 'credit_card.dart';
+part 'date_card.dart';
+part 'profile_list.dart';
+part 'money_topup_card.dart';
+part 'transaction_card.dart';

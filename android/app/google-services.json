@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "56728985826",
+    "firebase_url": "https://flutix-app-fachry.firebaseio.com",
+    "project_id": "flutix-app-fachry",
+    "storage_bucket": "flutix-app-fachry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56728985826:android:0c73fceb7aa8052134bebb",
+        "android_client_info": {
+          "package_name": "com.example.flutix_fachry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56728985826-orbeqbvv09emsh3j5nuor3gnircuhan1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClo2TpesA0Rv7Blk11OZxKPwPzh1XDf08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56728985826-orbeqbvv09emsh3j5nuor3gnircuhan1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
