@@ -1,6 +1,6 @@
-# flutix_fachry
+# flutix_app
 
-A new Flutter project.
+Movie & Ticket Booking App.
 
 ## Getting Started
 
